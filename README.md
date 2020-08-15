@@ -1,16 +1,18 @@
-### Hi there 👋
+# ひっかもりいDaniel
 
-<!--
-**hikkamorii/hikkamorii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### English
+Heyo!👋🏻 I'm Daniel, IT student from Latvia🇱🇻. I like doing whacky things with computers💻. I'm in Apple ecosystem, but I really like GNU/Linux and Android too💙. My favourite programming languages are: Swift, PHP, Python and BASH.
 
-Here are some ideas to get you started:
+I REALLY should learn JS👉🏻👈🏻. lmao
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Русский
+Че как?👋🏻 Я Даниил, ученик ИТ из Латвии🇱🇻. Мне нравится делать необычные вещи с компьютерами💻. Я в экосистеме Apple, но мне очень нравится GNU/Linux и Android💙. Мои любимые языки программирования, это: Swift, PHP, Python и BASH.
+
+Мне ОЧЕНЬ нужно выучить JS👉🏻👈🏻.)))
+
+
+### 日本語
+おはよう！👋🏻僕はダニエルはITをラトビア🇱🇻の大学の学生。コンピュータ💻と行う変な好きだ。AppleのエコシステムのユーザーでもGNU/LinuxもAndroid好き本当に💙。プログラミング言語好きなは：Swift、PHP、PythonそしてBASH.
+
+JSを学ぶすべき**本当**👉🏻👈🏻。草
